@@ -14,3 +14,4 @@ if response.status_code == 200:
     print("data", type(data), data)
 else:
     print("Error occured!")
+
